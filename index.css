@@ -1,0 +1,23 @@
+body{
+    background-color:cadetblue;
+}
+
+.container img{
+    width: 235px;
+    
+}
+.maincontainer{
+    display: grid;
+    place-items: center;
+    margin-top: 13%;
+    padding: 15px; 
+
+}
+.container{
+ background-color: white;
+  display: grid;
+  place-items:center;
+  padding: 20px;
+  border-radius: 10px;
+  width: fit-content;
+}
