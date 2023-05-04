@@ -3,21 +3,21 @@ body{
 }
 
 .container img{
-    width: 235px;
+    width: 245px;
+    border-radius: 12px;
     
 }
 .maincontainer{
     display: grid;
     place-items: center;
-    margin-top: 13%;
+    margin-top: 8%;
     padding: 15px; 
-
 }
 .container{
  background-color: white;
   display: grid;
   place-items:center;
   padding: 20px;
-  border-radius: 10px;
+  border-radius: 20px;
   width: fit-content;
 }
